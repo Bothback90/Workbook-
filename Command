@@ -1,0 +1,1 @@
+Explain what basic Git commands are and how to use them. Include commands like `git status`, `git init`, `git clone`, `git add`, `git commit`, `git push`, and `git pull`. Provide examples for each command.
